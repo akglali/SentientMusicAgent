@@ -2,7 +2,7 @@
 That agent helps you to use Sentient Agent Framework. It is using last.fm to get the music name and suggestions. It will give you the top youtube search as answer.
 
 # Dicord Link To Try Out
-[Discord](https://discord.com/oauth2/authorize?client_id=1412229192707346484&permissions=83968&integration_type=0&scope=bot+applications.commands)
+[Try Me On Discord](https://discord.com/oauth2/authorize?client_id=1412229192707346484&permissions=83968&integration_type=0&scope=bot+applications.commands)
 
 # 🎵 MusicAgentBot
 
